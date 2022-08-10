@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="287dp"
+        android:layout_height="347dp"
+        android:layout_gravity="center"
+        android:background="@color/purple_200" />
+
+    <Button
+        android:layout_width="376dp"
+        android:layout_height="115dp"
+        android:layout_gravity="center"
+        android:background="#03A9F4"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="224dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:background="#411197"
+        android:text="Nur Izza"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="108dp"
+        android:layout_height="228dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="240dp"
+        android:background="#3BD5C6"
+        android:textSize="20dp" />
+
+    <Button
+
+        android:layout_width="102dp"
+        android:layout_height="237dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="240dp"
+        android:background="#3BD5C6"
+        android:textSize="20dp" />
+
+
+</FrameLayout>
